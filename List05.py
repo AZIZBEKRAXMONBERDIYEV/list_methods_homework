@@ -9,4 +9,5 @@ def main(numbers1, numbers2):
     Returns:
         list: return answer
     """
-    return
+    return numbers1+numbers2
+print(main([7,6,5,4,3,2,1],[0,9,9]))
